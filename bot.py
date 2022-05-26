@@ -19,7 +19,7 @@ old_posts_id = []
 fresh_posts_id = []
 work_posts_id = []
 
-########################################################## START
+############################################################ START
 @bot.message_handler(commands=['start'])
 def welcome(message):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
