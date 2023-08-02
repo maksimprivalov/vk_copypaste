@@ -1,6 +1,11 @@
 # vk_copypaste
 
-Бот который из вк копирует посты в телеграм.
-В auth_data нужно записать токен вк и токен телеграм бота, после чего включить бота через бат файл.
+Description:
+This Telegram bot is nesessery for copy posts from VKontakte (Russian social media service) to Telegram SM.
 
-Пока что есть реализация коирования только текста и картинок из поста, по аналогии можно добавить так же аудио.
+How to use:
+You should put tokens from VK.com API and Telegram API to "auth_data" variable, and after that launch BAT file on your own server.
+
+Application is still not fully working, but we already support copying posts with text and pictures.
+
+Promo video-description: https://vk.com/video/@m17suru?z=video241198289_456239415%2Fpl_241198289_-2
