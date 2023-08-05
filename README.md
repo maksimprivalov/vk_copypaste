@@ -1,7 +1,7 @@
 # vk_copypaste
 
 Description:
-This Telegram bot is nesessery for copy posts from VKontakte (Russian social media service) to Telegram SM.
+This Telegram bot is nesessery to copy posts from VKontakte (Russian social media service) to Telegram SM.
 
 How to use:
 You should put tokens from VK.com API and Telegram API to "auth_data" variable, and after that launch BAT file on your own server.
